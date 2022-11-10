@@ -6,3 +6,5 @@
 *.iml
 out/
 out/*
+META-INF/
+*.MF
