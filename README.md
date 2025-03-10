@@ -86,7 +86,5 @@ next calculation.
 - Currently there is no method to prevent calculation errors if the angle is calculated wrong due to
   the Stronghold snapping to a different location. In rare cases this can lead to two calculated
   coordinate positions having the Eye of Ender point to the same Stronghold.
-- This is program is my first Swing GUI project and first project of this kind so sorry if the code
-  is a little messy.
-  Please report any issues / bugs to me on discord at Trashpanda#6664 and I will try to fix them in
-  a timely manner but cannot promise a deadline if it is during a school semeseter.
+
+  Please report any issues / bugs to me on discord (user: trashpanda70)
